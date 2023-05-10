@@ -26,6 +26,6 @@ The tool scans the server and gives an output in an html file
 You are welcome to fork it but please gives credits
 
 
-See <a href="https://github.com/IamSTEINI/minecraft-server-scanner/blob/main/LICENSE">THE LICENSE</a> for more infos.
+See <a href="https://github.com/IamSTEINI/Minecraft-Server-Lookup/blob/main/LICENSE">THE LICENSE</a> for more infos.
 
 <img align="center" style="border-radius:12px;width:400px" src="https://i.imgur.com/jWKgRlY.png" alt="Banner"/>
